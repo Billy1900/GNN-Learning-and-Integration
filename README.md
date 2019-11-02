@@ -23,6 +23,7 @@
   - [Installation Documentation](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
   - [source code (github repo)](https://github.com/rusty1s/pytorch_geometric)
   - [数据集 dataset](https://linqs.soe.ucsc.edu/data)
+  - [PyG教程](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Hands-on-Graph-Neural-Networks-with-PyTorch-PyTorch-Geometric1.pdf)
 
 - [x] [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
 
