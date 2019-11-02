@@ -19,4 +19,6 @@
   - [source code (github repo)](https://github.com/rusty1s/pytorch_geometric)
   - [数据集 dataset](https://linqs.soe.ucsc.edu/data)
 
+- [x] [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
+
 - [ ] [PyG和Pytorch实现GNN模型code](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/PyG%E5%92%8CPytorch%E5%AE%9E%E7%8E%B0GNN%E6%A8%A1%E5%9E%8B.zip)
