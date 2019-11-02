@@ -10,4 +10,6 @@
 
 - [x] [The graph neural network model](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
 
+- [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
+
 - [ ] [PyG和Pytorch实现GNN模型code](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/PyG%E5%92%8CPytorch%E5%AE%9E%E7%8E%B0GNN%E6%A8%A1%E5%9E%8B.zip)
