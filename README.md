@@ -6,7 +6,7 @@
 
 - [x] [GNN Introduction 中文版](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/GNN_Review1.1.pdf)
 
-- [GNN 入门]
+- GNN 入门
   - [x] [GNN 综述(比较全)](https://zhuanlan.zhihu.com/p/76001080)
   - [x] [浅显易懂](https://zhuanlan.zhihu.com/p/38612863)
   - [ ] [进阶--全面开始比较深入](https://zhuanlan.zhihu.com/p/65539782)
@@ -19,7 +19,7 @@
 
 - [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
 
-- [PyTorch Geometric]
+- PyTorch Geometric
   - [Installation Documentation](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
   - [source code (github repo)](https://github.com/rusty1s/pytorch_geometric)
   - [数据集 dataset](https://linqs.soe.ucsc.edu/data)
