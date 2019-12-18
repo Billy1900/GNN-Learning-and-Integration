@@ -10,7 +10,7 @@
 
 - GNN 入门
   - [x] [GNN 综述(比较全)](https://zhuanlan.zhihu.com/p/76001080)
-  - [ ] [浅显易懂](https://zhuanlan.zhihu.com/p/38612863)
+  - [x] [浅显易懂](https://zhuanlan.zhihu.com/p/38612863)
   - [ ] [进阶--全面开始比较深入](https://zhuanlan.zhihu.com/p/65539782)
   - [ ] [基本概念扫盲](https://zhuanlan.zhihu.com/p/54505069)
   - [ ] [英文版 视频图片助于理解](http://tkipf.github.io/graph-convolutional-networks/)
