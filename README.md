@@ -1,6 +1,6 @@
 # GNN-Learning-and-Integration
-- [从图论->GNN，很初级](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
-
+- [从图论->GNN，很初级,GNN讲的很一般](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
+- [Jure Leskovec, Computer Science Department, Stanford University](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
 -------------------------------------------------------------------------------------
 - [x] [How to read paper](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/How%20to%20Read%20a%20Paper.pdf)
 
