@@ -1,5 +1,7 @@
 # GNN-Learning-and-Integration
+- [从图论->GNN，很初级](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
 
+-------------------------------------------------------------------------------------
 - [x] [How to read paper](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/How%20to%20Read%20a%20Paper.pdf)
 
 - [x] [GNN Introduction paper](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Graph%20Neural%20Networks-A%20Review%20of%20Methods%20and%20Applications.pdf)
