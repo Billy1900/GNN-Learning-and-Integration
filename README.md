@@ -16,8 +16,10 @@
   - [x] [进阶--各个模型的总结](https://zhuanlan.zhihu.com/p/65539782)
   - [x] [基本概念扫盲](https://zhuanlan.zhihu.com/p/54505069)
   - [x] [英文版 视频图片助于理解](http://tkipf.github.io/graph-convolutional-networks/)
+  - [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
+  - [x] [如何理解 Graph Convolutional Network（GCN）?](https://www.zhihu.com/question/54504471/answer/332657604)
 
-- 经典论文
+- **经典论文**
 
   - [ ] [《The graph neural network model》](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
 
@@ -29,7 +31,6 @@
   
   - [ ] [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/semi_supervised_classification_with_graph_convolutional_networks.pdf)
   
-- [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
 
 - PyTorch Geometric
   - [Installation Documentation](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
