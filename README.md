@@ -1,4 +1,8 @@
 # GNN-Learning-and-Integration
+
+所有资源均难以全部吸收，在做研究过程中再进行深入探究。2019-12-19
+
+
 - [从图论->GNN，很初级,GNN讲的很一般](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
 - [Jure Leskovec, Computer Science Department, Stanford University](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
 -------------------------------------------------------------------------------------
@@ -46,6 +50,6 @@
 
 
 -------------------------------------------------------------------------------------
-- [ ] [Machine Learning Methods](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
+- [x] [Machine Learning Methods](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
 专家提供，有很大参考意义
 - [x] [机器学习三大框架资源](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.md)
