@@ -19,9 +19,9 @@
 
 - 经典论文
 
-  - [x] [《The graph neural network model》](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
+  - [ ] [《The graph neural network model》](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
 
-  - [x] [论文《The Graph Neural Network Model》中GNN模型及实现细节](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
+  - [ ] [论文《The Graph Neural Network Model》中GNN模型及实现细节](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
 
   - [ ] [Diffusion-Convolutional Neural Networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Diffusion-Convolutional%20Neural%20Networks.pdf)
   
