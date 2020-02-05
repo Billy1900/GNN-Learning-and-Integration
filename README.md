@@ -36,6 +36,7 @@
   
   - [ ] [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/semi_supervised_classification_with_graph_convolutional_networks.pdf)
   
+  - [ ] [Variational Graph Auto-Encoders.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Variational%20Graph%20Auto-Encoders.pdf)
 
 - PyTorch Geometric
   - [Installation Documentation](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
