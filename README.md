@@ -13,7 +13,7 @@
 - [x] [基本概念扫盲](https://zhuanlan.zhihu.com/p/54505069)
 - [x] [英文版 视频图片助于理解](http://tkipf.github.io/graph-convolutional-networks/)
 - [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
-- [x] [如何理解 Graph Convolutional Network（GCN）?](https://www.zhihu.com/question/54504471/answer/332657604)
+- [x] [如何理解 Graph Convolutional Network（GCN）?:重点是卷积以及傅里叶的理解](https://www.zhihu.com/question/54504471/answer/332657604)
 - [x] [GNN Intro.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/gnn%20Intro.pdf)
 
 ## 进阶：经典论文
