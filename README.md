@@ -5,7 +5,7 @@
 ## GNN 入门
 - [从图论->GNN，很初级,GNN讲的很一般,基本的图论偏多](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
 - [Jure Leskovec, Computer Science Department, Stanford University](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
-- [x] [GNN Introduction paper](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Graph%20Neural%20Networks-A%20Review%20of%20Methods%20and%20Applications.pdf)
+
 - [x] [GNN Introduction 中文版](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/GNN_Review1.1.pdf)
 - [x] [GNN 综述(比较全)](https://zhuanlan.zhihu.com/p/76001080)
 - [x] [浅显易懂](https://zhuanlan.zhihu.com/p/38612863)
@@ -14,10 +14,10 @@
 - [x] [英文版 视频图片助于理解](http://tkipf.github.io/graph-convolutional-networks/)
 - [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
 - [x] [如何理解 Graph Convolutional Network（GCN）?:重点是卷积以及傅里叶的理解](https://www.zhihu.com/question/54504471/answer/332657604)
-- [x] [GNN Intro.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/gnn%20Intro.pdf)
+- [x] [GNN Intro slides](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/gnn%20Intro.pdf)
 
 ## 进阶：经典论文
-
+- [x] [Graph Neural Networks-A Review of Methods and Applications.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Graph%20Neural%20Networks-A%20Review%20of%20Methods%20and%20Applications.pdf)
   - [x] [《The graph neural network model》](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
   - [x] [论文《The Graph Neural Network Model》中GNN模型及实现细节](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
   - [ ] [Diffusion-Convolutional Neural Networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Diffusion-Convolutional%20Neural%20Networks.pdf)
