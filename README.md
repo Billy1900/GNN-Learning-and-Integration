@@ -38,7 +38,7 @@
 - [x] [Machine Learning Methods](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
 专家提供，有很大参考意义
 - [x] [机器学习三大框架资源](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.md)
-
+- [x](Mathematics for Machine Learning)(https://github.com/mml-book/mml-book.github.io)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2020-02-13
