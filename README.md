@@ -1,6 +1,8 @@
 # GNN-Learning-and-Integration
 Sorry for that, most of the materials are written in Chinese. Friendly for beginners.
 
+Code is easily to find on github.
+
 ## 1. GNN Intuitive Learning
 - [Fundamental graph theory](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
 - [Deep Learning on Graph: GraphSAGE](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
