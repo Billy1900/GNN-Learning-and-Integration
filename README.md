@@ -1,29 +1,28 @@
 # GNN-Learning-and-Integration
-
+Sorry for that, most of the materials are written in Chinese.
 - [x] [How to read paper](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/How%20to%20Read%20a%20Paper.pdf)
 
-## GNN 入门
-- [从图论->GNN，很初级,GNN讲的很一般,基本的图论偏多](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
-- [Jure Leskovec, Computer Science Department, Stanford University](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
+## 1. GNN Intuitive Learning
+- [Fundamental graph theory](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
+- [Deep Learning on Graph: GraphSAGE](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
+- [what is Convolution, graph Laplacian](https://zhuanlan.zhihu.com/p/54505069)
+- [Graph Neural Network by kipf](http://tkipf.github.io/graph-convolutional-networks/)
 
-- [x] [GNN Introduction 中文版](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/GNN_Review1.1.pdf)
-- [x] [GNN 综述(比较全)](https://zhuanlan.zhihu.com/p/76001080)
-- [x] [浅显易懂](https://zhuanlan.zhihu.com/p/38612863)
-- [x] [进阶--各个模型的总结](https://zhuanlan.zhihu.com/p/65539782)
-- [x] [基本概念扫盲](https://zhuanlan.zhihu.com/p/54505069)
-- [x] [英文版 视频图片助于理解](http://tkipf.github.io/graph-convolutional-networks/)
-- [x] [GNN三代演进](http://xtf615.com/2019/02/24/gcn/)
-- [x] [如何理解 Graph Convolutional Network（GCN）?:重点是卷积以及傅里叶的理解](https://www.zhihu.com/question/54504471/answer/332657604)
-- [x] [GNN Intro slides](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/gnn%20Intro.pdf)
+## 2. GNN Mathematical Theory Learning
+- [GNN Conclusions](https://zhuanlan.zhihu.com/p/76001080)
+- [GNN Review report](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/GNN_Review1.1.pdf)
+- [Graph model: graph embedding and graph convolutional network](https://zhuanlan.zhihu.com/p/65539782)
+- [Mathematical foundation of GNN](http://xtf615.com/2019/02/24/gcn/)
+- [Dive into Convolution deeply: Mathematical derivation](https://www.zhihu.com/question/54504471/answer/332657604)
 
-## 进阶：经典论文
-- [x] [Graph Neural Networks-A Review of Methods and Applications.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Graph%20Neural%20Networks-A%20Review%20of%20Methods%20and%20Applications.pdf)
-  - [x] [《The graph neural network model》](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
-  - [x] [论文《The Graph Neural Network Model》中GNN模型及实现细节](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
-  - [x] [Diffusion-Convolutional Neural Networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Diffusion-Convolutional%20Neural%20Networks.pdf)
-  - [x] [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Improved%20Semantic%20Representations%20From%20Tree-Structured%20Long%20Short-Term%20Memory%20Networks.pdf)
-  - [x] [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/semi_supervised_classification_with_graph_convolutional_networks.pdf)
-  - [x] [Variational Graph Auto-Encoders.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Variational%20Graph%20Auto-Encoders.pdf)
+## 3. Academic Paper
+- [Graph Neural Networks-A Review of Methods and Applications.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Graph%20Neural%20Networks-A%20Review%20of%20Methods%20and%20Applications.pdf)
+- [The graph neural network model](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/The%20graph%20neural%20network%20model.pdf)
+  - [论文《The Graph Neural Network Model》中GNN模型及实现细节](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
+  - [Diffusion-Convolutional Neural Networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Diffusion-Convolutional%20Neural%20Networks.pdf)
+  -  [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Improved%20Semantic%20Representations%20From%20Tree-Structured%20Long%20Short-Term%20Memory%20Networks.pdf)
+  - [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/semi_supervised_classification_with_graph_convolutional_networks.pdf)
+  - [Variational Graph Auto-Encoders.pdf](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Variational%20Graph%20Auto-Encoders.pdf)
 - [x] [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
 
 ## Pytorch框架
