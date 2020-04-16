@@ -24,7 +24,8 @@ Sorry for that, most of the materials are written in Chinese.
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
 - [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://arxiv.org/abs/1609.02907)
 - [Variational Graph Auto-Encoders.pdf](https://arxiv.org/abs/1611.07308)
-- [x] [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
+## 4. Survey
+- [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
 
 ## Pytorch框架
 - PyTorch Geometric
