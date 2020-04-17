@@ -37,15 +37,24 @@ Code is easily to find on github.
 
 ## 4. Survey
 - [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
+- [Awesome graph neural networks paper list](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
 
 ## 5. Tools
 - [Three Tools](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.md)
   - Tensorflow
+    - [How to Install Tensorflow 2.1.0 in windows10?： CUDA 10.1, CUDnn 7.6](https://blog.csdn.net/weixin_44170512/article/details/103990592)
+    - [Medium--Migrating tensorflow 1.x to tensorflow 2.x.](https://medium.com/tensorflow/upgrading-your-code-to-tensorflow-2-0-f72c3a4d83b5)
+    - [TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)](https://github.com/aymericdamien/TensorFlow-Examples)
   - Keras
   - Pytorch
+    - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc
 - [Dataset](https://linqs.soe.ucsc.edu/data)
 
 ## 6. Other
+### 6.1 Machine Learning
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
-
-
+- [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
+- [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
+- [AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network): 机器学习(Machine Learning)、深度学习(Deep Learning)、对抗神经网络(GAN），图神经网络（GNN），NLP，大数据相关的发展路书(roadmap), 并附海量源码（python，pytorch）带大家消化基本知识点
+### 6.2 GAN
+- [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
