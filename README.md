@@ -21,7 +21,12 @@ Code is easily to find on github.
 - [Dive into Convolution deeply: Mathematical derivation](https://www.zhihu.com/question/54504471/answer/332657604)
 
 ## 3. Academic Paper
+
+### 3.1 Survey Paper
 - [Graph Neural Networks-A Review of Methods and Applications.pdf](https://arxiv.org/abs/1812.08434)
+- [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf)
+- [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
+### 3.2 Some Important Papers on GNN
 - The graph neural network model
   - [The graph neural network model](http://persagen.com/files/misc/scarselli2009graph.pdf)
   - [The Graph Neural Network Model explanation](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
@@ -29,6 +34,7 @@ Code is easily to find on github.
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
 - [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://arxiv.org/abs/1609.02907)
 - [Variational Graph Auto-Encoders.pdf](https://arxiv.org/abs/1611.07308)
+
 ## 4. Survey
 - [Must read paper in GNN](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/Must_read_paper_GNN.md)
 
