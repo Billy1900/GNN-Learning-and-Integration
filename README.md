@@ -58,3 +58,6 @@ Code is easily to find on github.
 - [AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network): 机器学习(Machine Learning)、深度学习(Deep Learning)、对抗神经网络(GAN），图神经网络（GNN），NLP，大数据相关的发展路书(roadmap), 并附海量源码（python，pytorch）带大家消化基本知识点
 ### 6.2 GAN
 - [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
+
+### 6.3 Graph Embedding
+- [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
