@@ -32,7 +32,9 @@ Code is easily to find on github.
   - [The Graph Neural Network Model explanation](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E8%AE%BA%E6%96%87%E3%80%8AThe%20Graph%20Neural%20Network%20Model%E3%80%8B%E4%B8%ADGNN%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82.pdf)
 - [Diffusion-Convolutional Neural Networks](https://papers.nips.cc/paper/6212-diffusion-convolutional-neural-networks.pdf)
 - [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075)
-- [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://arxiv.org/abs/1609.02907)
+- semi_supervised_classification_with_graph_convolutional_networks (GCN)
+  - [semi_supervised_classification_with_graph_convolutional_networks.pdf](https://arxiv.org/abs/1609.02907)
+  - [GCN code explanation](https://blog.csdn.net/yyl424525/article/details/100634211)
 - [Variational Graph Auto-Encoders.pdf](https://arxiv.org/abs/1611.07308)
 
 ## 4. Survey
@@ -49,6 +51,7 @@ Code is easily to find on github.
   - Pytorch
     - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc
 - [Dataset](https://linqs.soe.ucsc.edu/data)
+  - [Cora Introduction](https://blog.csdn.net/yeziand01/article/details/93374216)
 
 ## 6. Other
 ### 6.1 Machine Learning
