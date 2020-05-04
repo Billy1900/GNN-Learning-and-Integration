@@ -4,6 +4,7 @@ Sorry for that, most of the materials are written in Chinese. Friendly for begin
 Code is easily to find on github.
 
 ## 1. GNN Intuitive Learning
+- [CNN explainer](https://github.com/poloclub/cnn-explainer)
 - [Fundamental graph theory](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
 - [Deep Learning on Graph: GraphSAGE](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
 - [what is Convolution, graph Laplacian](https://zhuanlan.zhihu.com/p/54505069)
