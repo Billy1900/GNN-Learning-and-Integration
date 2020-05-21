@@ -10,6 +10,7 @@ Code is easily to find on github.
 - [what is Convolution, graph Laplacian](https://zhuanlan.zhihu.com/p/54505069)
 - [Graph Neural Network by kipf](http://tkipf.github.io/graph-convolutional-networks/)
 - [GCN Introduction](https://zhuanlan.zhihu.com/p/120311352)
+- [GCN 为什么是低通滤波器](https://zhuanlan.zhihu.com/p/142640571)
 - 从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (一)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (二)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_2.html)
