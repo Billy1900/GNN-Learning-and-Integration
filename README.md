@@ -54,7 +54,7 @@ Code is easily to find on github.
     - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc
 - [Dataset](https://linqs.soe.ucsc.edu/data)
   - [Cora Introduction](https://blog.csdn.net/yeziand01/article/details/93374216)
-
+- [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
 ## 6. Other
 ### 6.1 Machine Learning
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
