@@ -45,7 +45,7 @@ Code is easily to find on github.
 - [Awesome graph neural networks paper list](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
 
 ## 5. Tools
-- [Three Tools](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.md)
+- [5.1 Three Tools](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.md)
   - Tensorflow
     - [How to Install Tensorflow 2.1.0 in windows10?： CUDA 10.1, CUDnn 7.6](https://blog.csdn.net/weixin_44170512/article/details/103990592)
     - [Medium--Migrating tensorflow 1.x to tensorflow 2.x.](https://medium.com/tensorflow/upgrading-your-code-to-tensorflow-2-0-f72c3a4d83b5)
@@ -53,10 +53,12 @@ Code is easily to find on github.
   - Keras
   - Pytorch
     - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc
-- [Dataset](https://linqs.soe.ucsc.edu/data)
+- [5.2 Dataset](https://linqs.soe.ucsc.edu/data)
   - [Cora Introduction](https://blog.csdn.net/yeziand01/article/details/93374216)
-- [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
-- [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
+- [5.3 Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
+- [5.4 Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
+- [5.5 Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+
 ## 6. Other
 ### 6.1 Machine Learning
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
