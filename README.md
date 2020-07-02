@@ -16,6 +16,7 @@ Code is easily to find on github.
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (二)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_2.html)
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (三)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_3.html)
 - [GAT Introduction](https://zhuanlan.zhihu.com/p/112938037)
+
 ## 2. GNN Mathematical Theory Learning
 - [GNN Conclusions](https://zhuanlan.zhihu.com/p/76001080)
 - [GNN Review report](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/GNN_Review1.1.pdf)
@@ -24,7 +25,6 @@ Code is easily to find on github.
 - [Dive into Convolution deeply: Mathematical derivation](https://www.zhihu.com/question/54504471/answer/332657604)
 
 ## 3. Academic Paper
-
 ### 3.1 Survey Paper
 - [Graph Neural Networks-A Review of Methods and Applications.pdf](https://arxiv.org/abs/1812.08434)
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf)
@@ -45,7 +45,7 @@ Code is easily to find on github.
 - [Awesome graph neural networks paper list](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
 
 ## 5. Tools
-- [5.1 Three Tools](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%89%E5%A4%A7%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.md)
+### 5.1 Three Tools
   - Tensorflow
     - [How to Install Tensorflow 2.1.0 in windows10?： CUDA 10.1, CUDnn 7.6](https://blog.csdn.net/weixin_44170512/article/details/103990592)
     - [Medium--Migrating tensorflow 1.x to tensorflow 2.x.](https://medium.com/tensorflow/upgrading-your-code-to-tensorflow-2-0-f72c3a4d83b5)
@@ -53,23 +53,26 @@ Code is easily to find on github.
   - Keras
   - Pytorch
     - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc
-- [5.2 Dataset](https://linqs.soe.ucsc.edu/data)
+### 5.2 Dataset
+  - [Dataset library](https://linqs.soe.ucsc.edu/data)
   - [Cora Introduction](https://blog.csdn.net/yeziand01/article/details/93374216)
-- [5.3 Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
-- [5.4 Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
-- [5.5 Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+### 5.3 Library to build GNN easily
+- [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
+- [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
+- [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+- [CogDL: An Extensive Research Toolkit for Graphs](https://github.com/THUDM/cogdl/)
 
-## 6. Other
-### 6.1 Machine Learning
-- [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
-- [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
+## 6. Courses & Learning material
 - [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
 - [AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network): 机器学习(Machine Learning)、深度学习(Deep Learning)、对抗神经网络(GAN），图神经网络（GNN），NLP，大数据相关的发展路书(roadmap), 并附海量源码（python，pytorch）带大家消化基本知识点
-- [如何理解dropout](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
-- [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
 - [Interpretable Machine Learning](https://github.com/christophM/interpretable-ml-book)
-### 6.2 GAN
-- [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
+- [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
+- [Machine-Learning-Book（机器学习宝典）](https://github.com/yuanxiaosc/Machine-Learning-Book)
+- [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
-### 6.3 Graph Embedding
+## 7. Other
+- [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
+- [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
+- [如何理解dropout](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
+- [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
 - [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
