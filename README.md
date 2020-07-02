@@ -59,6 +59,7 @@
 - [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
 - [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 - [CogDL: An Extensive Research Toolkit for Graphs](https://github.com/THUDM/cogdl/)
+- [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper): This repository contains a tensorflow implementation of GCNN models for node classification, link predicition and joint node classification and link prediction to supplement the [survey paper by Chami et al.](https://arxiv.org/pdf/2005.03675.pdf)
 
 ## 6. Courses & Learning material
 - [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
