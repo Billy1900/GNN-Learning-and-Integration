@@ -69,7 +69,7 @@ Code is easily to find on github.
 - [Interpretable Machine Learning](https://github.com/christophM/interpretable-ml-book)
 - [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
 - [Machine-Learning-Book（机器学习宝典）](https://github.com/yuanxiaosc/Machine-Learning-Book)
-- [Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+- [CS224W: Machine Learning with Graphs, stanford Fall 2019](http://web.stanford.edu/class/cs224w/)
 
 ## 7. Other
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
