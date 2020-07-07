@@ -68,6 +68,7 @@
 - [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
 - [Machine-Learning-Book（机器学习宝典）](https://github.com/yuanxiaosc/Machine-Learning-Book)
 - [CS224W: Machine Learning with Graphs, stanford Fall 2019](http://web.stanford.edu/class/cs224w/)
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 
 ## 7. Other
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
