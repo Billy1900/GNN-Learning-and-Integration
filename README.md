@@ -64,6 +64,7 @@
 - Benchmarking Graph Neural Networks [[paper]](https://arxiv.org/pdf/2003.00982v3.pdf) [[code]](https://github.com/graphdeeplearning/benchmarking-gnns)
 - Stella Graph [[documentation]](https://stellargraph.readthedocs.io/en/stable/index.html) [[github repo]](https://github.com/stellargraph/stellargraph)
 - Matplotlib教程 [[Link]](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
+- PyCaret 2.0 [[link]](https://github.com/pycaret/pycaret)
 
 ## 6. Courses & Learning material
 - [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
