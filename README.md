@@ -82,5 +82,8 @@
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
 - [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
 - [如何理解dropout](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
-- [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
 - [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
+
+## 8. GAN
+- [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
+- [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
