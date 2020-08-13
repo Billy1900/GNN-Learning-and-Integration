@@ -87,3 +87,10 @@
 ## 8. GAN
 - [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+
+## 9. Graph Adversarial Learning
+- [Awesome Graph Adversarial Learning (Updating)](https://github.com/gitgiter/Graph-Adversarial-Learning)
+- [Awesome Graph Attack and Defense Papers](https://github.com/Billy1900/GCN-DP/blob/master/Awesome%20Graph%20Attack%20and%20Defense%20Papers.md)
+- [DeepRobust: a repository with representative algorithms on Graph attack and defense model](https://github.com/DSE-MSU/DeepRobust/tree/master/deeprobust/graph)
+- [A curated list of adversarial attacks and defenses papers on graph-structured data](https://github.com/safe-graph/graph-adversarial-learning-literature)
+- [图对抗攻击 Graph Adversarial Attack--zhihu](https://zhuanlan.zhihu.com/p/88934914)
