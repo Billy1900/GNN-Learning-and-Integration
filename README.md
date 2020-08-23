@@ -58,16 +58,18 @@
 ### 5.3 Library to build GNN easily
 - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
 - [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
-- [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 - [CogDL: An Extensive Research Toolkit for Graphs](https://github.com/THUDM/cogdl/)
 - [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper): This repository contains a tensorflow implementation of GCNN models for node classification, link predicition and joint node classification and link prediction to supplement the [survey paper by Chami et al.](https://arxiv.org/pdf/2005.03675.pdf)
 - Benchmarking Graph Neural Networks [[paper]](https://arxiv.org/pdf/2003.00982v3.pdf) [[code]](https://github.com/graphdeeplearning/benchmarking-gnns)
 - Stella Graph [[documentation]](https://stellargraph.readthedocs.io/en/stable/index.html) [[github repo]](https://github.com/stellargraph/stellargraph)
-- Matplotlib教程 [[Link]](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 - PyCaret 2.0 [[link]](https://github.com/pycaret/pycaret)
 - graph_star [[link]](https://github.com/graph-star-team/graph_star)
+### 5.4 To draw
+- Matplotlib教程 [[Link]](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 - [How to use t-SNE efficiently](https://distill.pub/2016/misread-tsne/)
 - [Scikit-plot](https://github.com/reiinakano/scikit-plot)
+- [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+- ML Visuals [[repo]](https://github.com/dair-ai/ml-visuals) [[slides]](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.g85a0789696_743_21)
 
 ## 6. Courses & Learning material
 - [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
