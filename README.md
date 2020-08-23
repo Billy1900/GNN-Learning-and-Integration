@@ -70,6 +70,7 @@
 - [Scikit-plot](https://github.com/reiinakano/scikit-plot)
 - [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 - ML Visuals [[repo]](https://github.com/dair-ai/ml-visuals) [[slides]](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.g85a0789696_743_21)
+- [Science Plots](https://github.com/garrettj403/SciencePlots)
 
 ## 6. Courses & Learning material
 - [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
