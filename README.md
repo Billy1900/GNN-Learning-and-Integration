@@ -67,6 +67,7 @@
 - PyCaret 2.0 [[link]](https://github.com/pycaret/pycaret)
 - graph_star [[link]](https://github.com/graph-star-team/graph_star)
 - [How to use t-SNE efficiently](https://distill.pub/2016/misread-tsne/)
+- [Scikit-plot](https://github.com/reiinakano/scikit-plot)
 
 ## 6. Courses & Learning material
 - [吴恩达机器学习系列](https://zhuanlan.zhihu.com/p/108243142)
