@@ -81,7 +81,7 @@
 - [CS224W: Machine Learning with Graphs, stanford Fall 2019](http://web.stanford.edu/class/cs224w/)
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [Awesome Math](https://github.com/llSourcell/learn_math_fast): A curated list of awesome mathematics resources.
-
+- [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 ## 7. Other
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
