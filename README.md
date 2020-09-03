@@ -88,6 +88,7 @@
 - [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
 - [如何理解dropout](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
 - [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
+- [Inductive vs. Transductive Learning](https://towardsdatascience.com/inductive-vs-transductive-learning-e608e786f7d)
 
 ## 8. GAN
 - [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
