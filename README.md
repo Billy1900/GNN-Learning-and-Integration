@@ -2,6 +2,7 @@
 
 ## 1. GNN Intuitive Learning
 - [CNN explainer](https://github.com/poloclub/cnn-explainer)
+- [GNN model explainer](https://github.com/RexYing/gnn-model-explainer)
 - [Fundamental graph theory](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
 - [Deep Learning on Graph: GraphSAGE](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
 - [what is Convolution, graph Laplacian](https://zhuanlan.zhihu.com/p/54505069)
