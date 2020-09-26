@@ -52,6 +52,7 @@
   - Keras
   - Pytorch
     - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list): A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc
+    - [How to solve problem: No module named torch_sparse](https://zhuanlan.zhihu.com/p/163180187)
 ### 5.2 Dataset
   - [Dataset library](https://linqs.soe.ucsc.edu/data)
   - [Cora Introduction](https://blog.csdn.net/yeziand01/article/details/93374216)
