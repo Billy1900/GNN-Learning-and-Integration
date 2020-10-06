@@ -89,6 +89,7 @@
 ## 7. Other
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
 - [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
+- [损失函数可视化及其对神经网络的指导作用](https://zhuanlan.zhihu.com/p/52314278)
 - [如何理解dropout](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
 - [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
 - [Inductive vs. Transductive Learning](https://towardsdatascience.com/inductive-vs-transductive-learning-e608e786f7d)
