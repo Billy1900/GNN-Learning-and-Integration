@@ -57,6 +57,7 @@
   - [Dataset library](https://linqs.soe.ucsc.edu/data)
   - [Cora Introduction](https://blog.csdn.net/yeziand01/article/details/93374216)
   - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+  - [planetoid](https://github.com/kimiyoung/planetoid)
 ### 5.3 Library to build GNN easily
 - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
 - [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
