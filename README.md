@@ -99,6 +99,7 @@
 - [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
 - [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [GAN小结](https://zhuanlan.zhihu.com/p/34916654)
+- [生成对抗网络（GAN）的数学原理全解](https://zhuanlan.zhihu.com/p/261871560)
 
 ## 9. Graph Adversarial Learning
 - [Awesome Graph Adversarial Learning (Updating)](https://github.com/gitgiter/Graph-Adversarial-Learning)
