@@ -28,6 +28,7 @@
 - [Deep Learning on Graphs: A Survey](https://arxiv.org/pdf/1812.04202.pdf)
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
 - [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/pdf/2005.03675.pdf)
+- [A Practical Guide to Graph Neural Networks](https://arxiv.org/abs/2010.05234)
 ### 3.2 Some Important Papers on GNN
 - The graph neural network model
   - [The graph neural network model](http://persagen.com/files/misc/scarselli2009graph.pdf)
