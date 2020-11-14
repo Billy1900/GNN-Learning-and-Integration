@@ -90,6 +90,7 @@
 - [Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/)
 - [Virgilio Data Science](https://github.com/virgili0/Virgilio)
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [C5.4 Networks From Harvard](https://courses.maths.ox.ac.uk/node/view_material/47273)
 
 ## 7. Other
 - [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
