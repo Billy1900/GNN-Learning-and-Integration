@@ -100,13 +100,8 @@
 - [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
 - [Inductive vs. Transductive Learning](https://towardsdatascience.com/inductive-vs-transductive-learning-e608e786f7d)
 
-## 8. GAN
-- [GAN可视化工具-GAN Lab](https://zhuanlan.zhihu.com/p/111904496)
-- [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
-- [GAN小结](https://zhuanlan.zhihu.com/p/34916654)
-- [生成对抗网络（GAN）的数学原理全解](https://zhuanlan.zhihu.com/p/261871560)
 
-## 9. Graph Adversarial Learning
+## 8. Graph Adversarial Learning
 - [Awesome Graph Adversarial Learning (Updating)](https://github.com/gitgiter/Graph-Adversarial-Learning)
 - [Awesome Graph Attack and Defense Papers](https://github.com/Billy1900/GCN-DP/blob/master/Awesome%20Graph%20Attack%20and%20Defense%20Papers.md)
 - [DeepRobust: a repository with representative algorithms on Graph attack and defense model](https://github.com/DSE-MSU/DeepRobust/tree/master/deeprobust/graph)
