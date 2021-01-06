@@ -4,8 +4,7 @@
 - [CNN explainer](https://github.com/poloclub/cnn-explainer)
 - [GNN model explainer](https://github.com/RexYing/gnn-model-explainer)
 - [Fundamental graph theory](https://www.bilibili.com/video/av62661713/?spm_id_from=333.788.videocard.3)
-- [Deep Learning on Graph: GraphSAGE](https://www.bilibili.com/video/av51673220/?spm_id_from=333.788.videocard.1)
-- [what is Convolution, graph Laplacian](https://zhuanlan.zhihu.com/p/54505069)
+- [what is Convolution, graph Laplacian?](https://zhuanlan.zhihu.com/p/54505069)
 - [Graph Neural Network by kipf](http://tkipf.github.io/graph-convolutional-networks/)
 - [GCN Introduction](https://zhuanlan.zhihu.com/p/120311352)
 - [GCN 为什么是低通滤波器](https://zhuanlan.zhihu.com/p/142640571)
@@ -13,7 +12,6 @@
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (一)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (二)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_2.html)
   - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (三)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_3.html)
-- [GAT Introduction](https://zhuanlan.zhihu.com/p/112938037)
 
 ## 2. GNN Mathematical Theory Learning
 - [GNN Conclusions](https://zhuanlan.zhihu.com/p/76001080)
@@ -29,6 +27,7 @@
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)
 - [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://arxiv.org/pdf/2005.03675.pdf)
 - [A Practical Guide to Graph Neural Networks](https://arxiv.org/abs/2010.05234)
+- [GNNExplainer: Generating Explanations for Graph Neural Networks](https://arxiv.org/abs/1903.03894)
 ### 3.2 Some Important Papers on GNN
 - The graph neural network model
   - [The graph neural network model](http://persagen.com/files/misc/scarselli2009graph.pdf)
