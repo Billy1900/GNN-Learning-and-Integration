@@ -1,5 +1,5 @@
 # GNN-Learning-and-Integration
-First, for beginners, I really recommend they should start from a college course, like [CS224W: Machine Learning with Graphs, stanford Fall 2019](http://web.stanford.edu/class/cs224w/) and [Note](https://github.com/oxaza/-Note-Machine-Learning-with-Graph) which could help you get a good understanding of networks and how we discover information out of it.
+First, for beginners, I really recommend they should start from a college course, like [CS224W: Machine Learning with Graphs, stanford Fall 2019](http://web.stanford.edu/class/cs224w/) and [Note](https://snap-stanford.github.io/cs224w-notes/) which could help you get a good understanding of networks and how we discover information out of it.
 ## 1. GNN Intuitive Learning
 - [CNN explainer](https://github.com/poloclub/cnn-explainer)
 - [GNN model explainer](https://github.com/RexYing/gnn-model-explainer)
