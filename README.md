@@ -82,7 +82,6 @@ First, for beginners, I really recommend they should start from a college course
 - [Interpretable Machine Learning](https://github.com/christophM/interpretable-ml-book)
 - [深度学习 AI圣经(Deep Learning)](https://github.com/MingchaoZhu/DeepLearning)
 - [Machine-Learning-Book（机器学习宝典）](https://github.com/yuanxiaosc/Machine-Learning-Book)
-
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [Awesome Math](https://github.com/llSourcell/learn_math_fast): A curated list of awesome mathematics resources.
 - [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
