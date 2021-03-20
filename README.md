@@ -60,6 +60,7 @@ First, for beginners, I really recommend they should start from a college course
   - [planetoid](https://github.com/kimiyoung/planetoid)
 ### 5.3 Library to build GNN easily
 - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
+- [Open Graph Benchmark](https://ogb.stanford.edu/): The Open Graph Benchmark (OGB) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs. 
 - [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
 - [CogDL: An Extensive Research Toolkit for Graphs](https://github.com/THUDM/cogdl/)
 - [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper): This repository contains a tensorflow implementation of GCNN models for node classification, link predicition and joint node classification and link prediction to supplement the [survey paper by Chami et al.](https://arxiv.org/pdf/2005.03675.pdf)
