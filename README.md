@@ -61,6 +61,7 @@ Actually, I really recommend to use Keras in tensorflow (not pure tensorflow) an
   - [planetoid](https://github.com/kimiyoung/planetoid)
 ### 5.3 Library to build GNN easily
 - [Deep Graph Library (DGL)](https://github.com/dmlc/dgl)
+- [DIG](https://github.com/divelab/DIG): Dive into Graphs is a turnkey library for graph deep learning research.
 - [Open Graph Benchmark](https://ogb.stanford.edu/): The Open Graph Benchmark (OGB) is a collection of realistic, large-scale, and diverse benchmark datasets for machine learning on graphs. 
 - [GraphGym](http://snap.stanford.edu/gnn-design/): a powerful code platform for the community to explore GNN designs and tasks.
 - [Graph Neural Networks with Keras and Tensorflow 2.](https://github.com/danielegrattarola/spektral): Spektral is a Python library for graph deep learning, based on the Keras API and TensorFlow 2. The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs).
@@ -68,7 +69,7 @@ Actually, I really recommend to use Keras in tensorflow (not pure tensorflow) an
 - [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper): This repository contains a tensorflow implementation of GCNN models for node classification, link predicition and joint node classification and link prediction to supplement the [survey paper by Chami et al.](https://arxiv.org/pdf/2005.03675.pdf)
 - Benchmarking Graph Neural Networks [[paper]](https://arxiv.org/pdf/2003.00982v3.pdf) [[code]](https://github.com/graphdeeplearning/benchmarking-gnns)
 
-### 5.4 Plot Figure
+### 5.4 Plotting
 - Matplotlib教程 [[Link]](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 - [How to use t-SNE efficiently](https://distill.pub/2016/misread-tsne/)
 - [Scikit-plot](https://github.com/reiinakano/scikit-plot)
@@ -86,16 +87,8 @@ Actually, I really recommend to use Keras in tensorflow (not pure tensorflow) an
 - [Virgilio Data Science](https://github.com/virgili0/Virgilio)
 - [C5.4 Networks From Harvard](https://courses.maths.ox.ac.uk/node/view_material/47273)
 
-## 7. Other
-- [Research Methods in Machine Learning](https://github.com/Billy1900/GNN-Learning-and-Integration/blob/master/new-in-ml-2019.pdf)
-- [批量梯度下降(BGD)、随机梯度下降(SGD)、小批量梯度下降(MBGD)](https://zhuanlan.zhihu.com/p/72929546)
-- [损失函数可视化及其对神经网络的指导作用](https://zhuanlan.zhihu.com/p/52314278)
-- [如何理解dropout](https://blog.csdn.net/stdcoutzyx/article/details/49022443)
-- [Implementation and experiments of graph embedding algorithms](https://github.com/shenweichen/GraphEmbedding)
-- [Inductive vs. Transductive Learning](https://towardsdatascience.com/inductive-vs-transductive-learning-e608e786f7d)
 
-
-## 8. Graph Adversarial Learning
+## 7. Graph Adversarial Learning
 - [Awesome Graph Adversarial Learning (Updating)](https://github.com/gitgiter/Graph-Adversarial-Learning)
 - [Awesome Graph Attack and Defense Papers](https://github.com/Billy1900/GCN-DP/blob/master/Awesome%20Graph%20Attack%20and%20Defense%20Papers.md)
 - [DeepRobust: a repository with representative algorithms on Graph attack and defense model](https://github.com/DSE-MSU/DeepRobust/tree/master/deeprobust/graph)
